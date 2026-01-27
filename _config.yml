@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Zhongzheng Tang"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Associate Professor in the School of Mathematics at Beijing University of Posts and Telecommunications (BUPT)"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : "https://teacher.bupt.edu.cn/tangzhongzheng/zh_CN/index.htm"
-  email            : "tangzhongzheng@bupt.edu.cn" 
+  tangzhongzheng@bupt.edu.cn            : "tangzhongzheng@bupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
