@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Zhongzheng Tang"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor in the School of Mathematics at Beijing University of Posts and Telecommunications"
