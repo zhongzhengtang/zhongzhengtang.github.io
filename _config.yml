@@ -30,7 +30,7 @@ author:
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : "https://teacher.bupt.edu.cn/tangzhongzheng/zh_CN/index.htm"
-  email            : "tangzhongzheng@bupt.edu.cn" 
+  email            : #"tangzhongzheng@bupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
