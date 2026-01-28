@@ -13,4 +13,4 @@ Research interests
 ======
 - Combinatorial Optimization
 - Graph Theory
-- Design and Analysis of Approximation Algorithms
+- Algorithmic Game Theory
